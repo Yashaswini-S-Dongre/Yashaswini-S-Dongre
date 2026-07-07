@@ -153,14 +153,17 @@ Completed comprehensive practical training focused on Full Stack Web Development
 <div align="center">
 
 ### Infosys Springboard
-![Intro to Cyber Security](https://img.shields.io/badge/Infosys_Springboard-Introduction_to_Cyber_Security-4B0082?style=for-the-badge&logo=infosys) <br>
-![Intro to C Programming](https://img.shields.io/badge/Infosys_Springboard-Introduction_to_C_Programming-8A2BE2?style=for-the-badge&logo=infosys)
+<a href="certficates/Cybersecurity .pdf"><img src="https://img.shields.io/badge/Infosys_Springboard-Introduction_to_Cyber_Security-4B0082?style=for-the-badge&logo=infosys" alt="Intro to Cyber Security"></a> <br>
+<a href="certficates/infosys.pdf"><img src="https://img.shields.io/badge/Infosys_Springboard-Introduction_to_C_Programming-8A2BE2?style=for-the-badge&logo=infosys" alt="Intro to C Programming"></a>
 
 ### Smartbridge
-![Generative AI](https://www.credly.com/badges/990c3bf7-6fae-4cdf-b38b-f21c67d4f13e)
+<a href="https://www.credly.com/badges/990c3bf7-6fae-4cdf-b38b-f21c67d4f13e/linked_in?t=tatg0z"><img src="https://img.shields.io/badge/Smartbridge-Generative_AI-9370DB?style=for-the-badge&logo=ai" alt="Generative AI"></a>
 
 ### Btech Walleh & Teachnook
-![Web Development](https://img.shields.io/badge/Btech_Walleh-Web_Development_Intern-4B0082?style=for-the-badge&logo=web)
+<a href="certficates/Webdev.pdf"><img src="https://img.shields.io/badge/Btech_Walleh-Web_Development_Intern-4B0082?style=for-the-badge&logo=web" alt="Web Development Intern"></a>
+
+### Be10X
+<a href="certficates/image.jpeg"><img src="https://img.shields.io/badge/Be10X-AI_Tools_and_Chatgpt_Workshop-4B0082?style=for-the-badge&logo=web" alt="AI Tools & Workshop"></a>
 
 </div>
 
