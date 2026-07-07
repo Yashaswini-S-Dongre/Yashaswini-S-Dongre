@@ -157,7 +157,7 @@ Completed comprehensive practical training focused on Full Stack Web Development
 ![Intro to C Programming](https://img.shields.io/badge/Infosys_Springboard-Introduction_to_C_Programming-8A2BE2?style=for-the-badge&logo=infosys)
 
 ### Smartbridge
-![Generative AI](https://img.shields.io/badge/Smartbridge-Generative_AI-9370DB?style=for-the-badge&logo=ai)
+![Generative AI](https://www.credly.com/badges/990c3bf7-6fae-4cdf-b38b-f21c67d4f13e)
 
 ### Btech Walleh & Teachnook
 ![Web Development](https://img.shields.io/badge/Btech_Walleh-Web_Development_Intern-4B0082?style=for-the-badge&logo=web)
